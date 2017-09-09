@@ -15,11 +15,11 @@
 ## CSS3 animation + transform3D + flex布局
 ![](http://ou1frpks8.bkt.clouddn.com/touzi.gif)
 
-## JQ插件-自定义日历
-![](http://ou1frpks8.bkt.clouddn.com/rili.gif)
-
 ## 高仿淘宝商品放大镜
 ![](http://ou1frpks8.bkt.clouddn.com/fangdajing.gif)
+
+## JQ插件-自定义日历
+![](http://ou1frpks8.bkt.clouddn.com/rili.gif)
 
 ## 分块渐变
 ![](http://ou1frpks8.bkt.clouddn.com/zuoyou.gif)
